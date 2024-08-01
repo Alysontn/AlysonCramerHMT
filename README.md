@@ -1,3 +1,3 @@
 # AlysonCramerHMT
 
-Alyson Cramer's Homer Multitext Repo
+Alyson Cramer's *Iliad* Repo
